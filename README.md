@@ -1,6 +1,5 @@
-# GOF-2018
-
-## Greetings From TechnoJam and DSC Club
+__ GOF-2018__
+_Greetings From TechnoJam and DSC Club_
 
 
 ### This repository is part of [Gof-2018](http://gof.technojam.tech) . Don't forget to register yourself before contributing.
@@ -13,3 +12,4 @@
 ##### 1. [Slack](https://join.slack.com/t/gudevs/shared_invite/enQtNDI4ODY5ODM4NzI3LTg3ZTNkYzhiODIyYmU5Y2VmMGRjMDBjZTQxOTI4NGE2NTZlMzQwZjhmOWFmMmIyMGEwNDNjOTE5YTQ4MDk4MjI)
 ##### 2. [WhatsApp](https://chat.whatsapp.com/8KQi05Jte7I3rXoTDXCysT)
 
+##### 3. [Facebook](https://www.facebook.com/technojam.scse/)
