@@ -1,5 +1,5 @@
 __ GOF-2018__
-_Greetings From TechnoJam and DSC Club_
+__Greetings From TechnoJam and DSC Club__
 
 
 ### This repository is part of [Gof-2018](http://gof.technojam.tech) . Don't forget to register yourself before contributing.
